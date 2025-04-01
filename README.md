@@ -22,6 +22,6 @@ if it is empty program switches to word.csv file
 and shows other flashcards<br><br>
 </h3><br>
 front card:<br>
-![alt text](https://github.com/Hiobos/Flashcard-GUI-APP/blob/main/images/img_for_readme/front.png "Front")
+![Image](https://github.com/user-attachments/assets/58589468-47f5-4b57-b774-7b723fbcf9f4)
 <br>back card:<br>
-![alt text](https://github.com/Hiobos/Flashcard-GUI-APP/blob/main/images/img_for_readme/back.png "Back")
+![Image](https://github.com/user-attachments/assets/1cdb318a-f335-40b9-b8f9-16561e90e936)
