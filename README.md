@@ -1,10 +1,10 @@
 <h1>Flashcard app</h1><br>
 <h3>Features:<br>
--Change the flashcards, user can sawp csv file with
+-Change the flashcards, user can swap csv file with
 their own. first row should contain language to
-learn and native language of the user after a comma
-after that each row should be word in foreign lnguage and then
-in native, example file<br><br>
+learn and native language of the user after a comma,
+after that each row should be first word in foreign lnguage and second
+in native, example of such csv file<br><br>
 French,English<br>
 partie,part<br>
 histoire,history<br>
