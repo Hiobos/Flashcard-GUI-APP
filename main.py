@@ -3,6 +3,7 @@ import random
 import pandas as pd
 
 window = Tk()
+window.title("Flashcard App")
 FONT_LANGUAGE = ('Ariel', 30, 'italic')
 FONT_WORD = ('Ariel', 60, 'bold')
 BG_COLOR = '#B1DDC6'
