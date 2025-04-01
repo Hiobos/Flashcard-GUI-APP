@@ -20,4 +20,8 @@ priority in showing to the user<br><br>
 correctly then they are removed from the file and
 if it is empty program switches to word.csv file
 and shows other flashcards<br><br>
-</h3>
+</h3><br>
+front card:<br>
+![alt text](https://github.com/Hiobos/Flashcard-GUI-APP/blob/main/images/img_for_readme/front.png "Front")
+<br>back card:<br>
+![alt text](https://github.com/Hiobos/Flashcard-GUI-APP/blob/main/images/img_for_readme/back.png "Back")
